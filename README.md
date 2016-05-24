@@ -88,38 +88,4 @@ color=#0021e9>$out=jdate('H:i:s _ \i\r\a\n');</FONT><FONT color=#ff0000>// 10:15
 بازدیدکنندگان را به تاریخ هجری شمسی و به وقت تهران ، ذخیره کنید. اگر آموزش ها را کاملاً مطالعه نموده و بر این نرم افزار مسلّط شوید ، قادر خواهید بود 
 ابتکارات جدیدی به خرج داده و سرویس های بسیار مفیدی را ابداع کنید. فراموش نکنید که همه از صفر شروع کرده اند ، شما هم می توانید.</P>
 
-<a style="display:none;color:#ccc" dir="rtl" href="http://jdf.scr.ir/rahnama/?t=mobtadi">کلمـات کـلیدی:
-, آموزش کار با تاریخ و زمان در پی اچ پی php از صفر ، ابتدا ، برای افراد تازه کار و مبتدی , من برنامه نویس ناشی هستم ، چه طوری توی سایتم از تقویم ایرانی فارسی استفاده کنم ؟ , Amoozesh e jdf.php and jdate Hl,ca , رضـا غلام پناهی Mr
-, راه حلّ تبدیل زمان به هجری شمسی خورشیدی جلالی برای استفاده ار در سایت و نرم افزار های پی اچ پی php , آموزش jdf.php از صفر برای افراد مبتدی و ناوارد , مرکز رسمی آموزش و تعلیم توابع jdf.php تبدیل تاریخ در پی اچ پی در فـضای وب
-, jdf.php جدید و بسیار کم حجم تر و پرسرعت تر , کد تقویم جلالی جدید سایت , سایت رسمی تقویم جلالی پی اچ پی , زمان و تاریخ جمهوری اسلامی ایران به زبان پی اچ پی جهت استفاده در سایت ها , ابزار زمان پی اچ پی برای طرّاحان سایت
-<!-- jdf.scr.ir --></a>
-<title>jdf.php آموزش توابع</title>
-<center>
 
-<div style="background-color:#ddd;font-size:18px;width:270px;fl oat:right" dir="ltr" class="dib" align="center">
-<hr>
-# آموزش کامل توابع جدید #
-<hr>
-<a href="?t=jdate" class="dib kelid btn">jdate</a>
-<a href="?t=jstrftime" class="dib kelid btn">jstrftime</a>
-<a href="?t=jmktime" class="dib kelid btn">jmktime</a>
-<a href="?t=jgetdate" class="dib kelid btn">jgetdate</a>
-<a href="?t=jcheckdate" class="dib kelid btn">jcheckdate</a>
-<a href="?t=tr_num" class="dib kelid btn">tr_num</a>
-<a href="?t=mobtadi" class="dib kelid btn">آموزش مبتدی از صفر</a>
-</div>
-
-<div style="background-color:#ddd;font-size:18px;width:270px;fl oat:right" dir="ltr" class="dib" align="center">
-<hr>
-# آموزش کامل توابع جدید #
-<hr>
-<a href="?t=gregorian_to_jalali" class="dib kelid btn">gregorian_to_jalali</a>
-<a href="?t=jalali_to_gregorian" class="dib kelid btn">jalali_to_gregorian</a>
-<a href="?t=jdate_words" class="dib kelid btn">jdate_words</a>
-<a href="/rahnama/?t=bkgt&n" class="dib kelid btn">به کـار گیـری توابع</a>
-<a href="?t=nokat" class="dib kelid btn">نکات و هشدارها</a>
-<a href="?t=include" class="dib kelid btn">include_once</a>
-<a href="/download/" style="color:#f50" class="dib kelid btn">دریافت (دانلود) فایل و راهنما</a>
-</div>
-
-<center>
