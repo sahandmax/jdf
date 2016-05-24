@@ -1,5 +1,5 @@
 # jdf
-Jalali Date (Persian Date) Library For PHP (Fork of jdf.scr.ir)
+Jalali Date (Persian Date) Library For PHP (Fork of http://jdf.scr.ir)
 
 <div align="right">
 <link href="/css/rnm.css" rel="stylesheet" type="text/css" media="all"><title>آموزش مختصر برای افراد تازه کار</title>
