@@ -1,4 +1,4 @@
-# jdf
+# jdf v2.60
 Jalali Date (Persian Date) Library For PHP (Fork of http://jdf.scr.ir)
 
 <div align="right">
